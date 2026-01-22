@@ -1,6 +1,6 @@
 # Refresh by Albader - Business Website
 
-![Website Preview](images/screenshot.png)
+![Website Preview](images/Refresh-byAlbader.png)
 
 ## 🎯 Project Overview
 **Course:** Technology Class - Quarter 2 Project  
