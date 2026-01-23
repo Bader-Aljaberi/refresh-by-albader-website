@@ -104,7 +104,7 @@ This project demonstrates understanding of:
 ##  License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 - **Teacher:** Mr. Nkwa Walkers for guidance
 - **Bootstrap** for the responsive framework
 - **Unsplash/Shutterstock** for stock images
